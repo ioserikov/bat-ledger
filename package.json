@@ -102,7 +102,6 @@
     "hapi-require-https": "^4.0.0",
     "hapi-swagger": "^11.0.1",
     "http-request-signature": "0.0.2",
-    "inert": "^4.2.1",
     "lodash": "^4.17.15",
     "moment": "^2.22.1",
     "mongodb": "^3.3.3",
