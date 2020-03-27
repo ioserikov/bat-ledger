@@ -25,6 +25,7 @@ module.exports = (runtime, callback) => {
             continue
           }
 
+          console.log(suggestion)
           const publisher = suggestion.channel
           for (let j = 0; j < suggestion.funding.length; j += 1) {
             const source = suggestion.funding[j]
